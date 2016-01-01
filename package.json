@@ -1,0 +1,29 @@
+{
+  "name": "finance",
+  "version": "1.0.0",
+  "description": "some financial calculations in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "future",
+    "value",
+    "investment",
+    "loan",
+    "payment",
+    "principle",
+    "rate",
+    "of",
+    "return",
+    "initial",
+    "annuity",
+    "desired",
+    "maximum",
+    "withdrawal",
+    "balance",
+    "remaining."
+  ],
+  "author": "Michael Colon",
+  "license": "ISC"
+}
