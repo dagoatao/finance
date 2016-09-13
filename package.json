@@ -1,10 +1,10 @@
 {
   "name": "finance",
-  "version": "1.0.0",
-  "description": "some financial calculations in javascript.",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Some financial calculations in javascript.",
+  "main": "finance.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test.js"
   },
   "keywords": [
     "future",
